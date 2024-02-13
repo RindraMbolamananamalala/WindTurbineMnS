@@ -10,9 +10,9 @@
       <ownedAttribute xmi:type="uml:Property" xmi:id="_Wz2b4sp2Ee6jm7BkNLfnrQ" name="tower" type="_VrcCUMp2Ee6jm7BkNLfnrQ" association="_Wz100Mp2Ee6jm7BkNLfnrQ"/>
       <ownedAttribute xmi:type="uml:Property" xmi:id="_vqgzc8p2Ee6jm7BkNLfnrQ" name="transformer" type="_uZ9KgMp2Ee6jm7BkNLfnrQ" association="_vqgzcMp2Ee6jm7BkNLfnrQ"/>
       <ownedAttribute xmi:type="uml:Property" xmi:id="_5da38sp2Ee6jm7BkNLfnrQ" name="nacelle" type="_4CKa4Mp2Ee6jm7BkNLfnrQ" association="_5daQ4Mp2Ee6jm7BkNLfnrQ"/>
-      <ownedAttribute xmi:type="uml:Property" xmi:id="_FvB-Esp4Ee6jm7BkNLfnrQ" name="blade" type="_Ea3ngMp4Ee6jm7BkNLfnrQ" association="_FvBXAMp4Ee6jm7BkNLfnrQ">
-        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_FvB-E8p4Ee6jm7BkNLfnrQ"/>
-        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_FvB-FMp4Ee6jm7BkNLfnrQ" value="1"/>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_FvB-Esp4Ee6jm7BkNLfnrQ" name="blades" type="_Ea3ngMp4Ee6jm7BkNLfnrQ" association="_FvBXAMp4Ee6jm7BkNLfnrQ">
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_FvB-E8p4Ee6jm7BkNLfnrQ" value="3"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_FvB-FMp4Ee6jm7BkNLfnrQ" value="3"/>
       </ownedAttribute>
     </packagedElement>
     <packagedElement xmi:type="uml:Class" xmi:id="_nH984MpxEe6jm7BkNLfnrQ" name="RotorHub">
@@ -24,7 +24,9 @@
       </eAnnotations>
       <ownedEnd xmi:type="uml:Property" xmi:id="_ZP910spyEe6jm7BkNLfnrQ" name="windTurbine" type="_jl_D4MpxEe6jm7BkNLfnrQ" association="_ZP8AoMpyEe6jm7BkNLfnrQ"/>
     </packagedElement>
-    <packagedElement xmi:type="uml:Class" xmi:id="_oWFOcMp0Ee6jm7BkNLfnrQ" name="Rotor"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_oWFOcMp0Ee6jm7BkNLfnrQ" name="Rotor">
+      <ownedOperation xmi:type="uml:Operation" xmi:id="_E2hyUMqEEe6jm7BkNLfnrQ" name="rotate"/>
+    </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_r02bYMp0Ee6jm7BkNLfnrQ" memberEnd="_r03Ccsp0Ee6jm7BkNLfnrQ _r03Cdcp0Ee6jm7BkNLfnrQ">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_r03CcMp0Ee6jm7BkNLfnrQ" source="org.eclipse.papyrus">
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_r03Cccp0Ee6jm7BkNLfnrQ" key="nature" value="UML_Nature"/>
@@ -95,7 +97,12 @@
       </eAnnotations>
       <ownedEnd xmi:type="uml:Property" xmi:id="_uCrdhMp3Ee6jm7BkNLfnrQ" name="nacelle" type="_4CKa4Mp2Ee6jm7BkNLfnrQ" association="_uCq2cMp3Ee6jm7BkNLfnrQ"/>
     </packagedElement>
-    <packagedElement xmi:type="uml:Class" xmi:id="_8wmqgMp3Ee6jm7BkNLfnrQ" name="Alternator"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_8wmqgMp3Ee6jm7BkNLfnrQ" name="Alternator">
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_MNzscsqFEe6jm7BkNLfnrQ" name="rotorFromWhichItAdaptasItsOwnRotation" type="_oWFOcMp0Ee6jm7BkNLfnrQ" association="_MNzFYMqFEe6jm7BkNLfnrQ"/>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_1Gado8qFEe6jm7BkNLfnrQ" name="transformerForTheEnergyGeneration" type="_uZ9KgMp2Ee6jm7BkNLfnrQ" association="_1GadoMqFEe6jm7BkNLfnrQ"/>
+      <ownedOperation xmi:type="uml:Operation" xmi:id="_DEKK4MqGEe6jm7BkNLfnrQ" name="generateEnergy"/>
+      <ownedOperation xmi:type="uml:Operation" xmi:id="_HX-JcMqGEe6jm7BkNLfnrQ" name="adaptsRotation"/>
+    </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_-UdC4Mp3Ee6jm7BkNLfnrQ" memberEnd="_-UdC48p3Ee6jm7BkNLfnrQ _-Udp8Mp3Ee6jm7BkNLfnrQ">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_-UdC4cp3Ee6jm7BkNLfnrQ" source="org.eclipse.papyrus">
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_-UdC4sp3Ee6jm7BkNLfnrQ" key="nature" value="UML_Nature"/>
@@ -108,6 +115,18 @@
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FvB-Ecp4Ee6jm7BkNLfnrQ" key="nature" value="UML_Nature"/>
       </eAnnotations>
       <ownedEnd xmi:type="uml:Property" xmi:id="_FvB-Fcp4Ee6jm7BkNLfnrQ" name="windturbine" type="_jl_D4MpxEe6jm7BkNLfnrQ" association="_FvBXAMp4Ee6jm7BkNLfnrQ"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_MNzFYMqFEe6jm7BkNLfnrQ" memberEnd="_MNzscsqFEe6jm7BkNLfnrQ _MNzsdcqFEe6jm7BkNLfnrQ">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_MNzscMqFEe6jm7BkNLfnrQ" source="org.eclipse.papyrus">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_MNzsccqFEe6jm7BkNLfnrQ" key="nature" value="UML_Nature"/>
+      </eAnnotations>
+      <ownedEnd xmi:type="uml:Property" xmi:id="_MNzsdcqFEe6jm7BkNLfnrQ" name="alternator" type="_8wmqgMp3Ee6jm7BkNLfnrQ" association="_MNzFYMqFEe6jm7BkNLfnrQ"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_1GadoMqFEe6jm7BkNLfnrQ" memberEnd="_1Gado8qFEe6jm7BkNLfnrQ _1GbEsMqFEe6jm7BkNLfnrQ">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_1GadocqFEe6jm7BkNLfnrQ" source="org.eclipse.papyrus">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_1GadosqFEe6jm7BkNLfnrQ" key="nature" value="UML_Nature"/>
+      </eAnnotations>
+      <ownedEnd xmi:type="uml:Property" xmi:id="_1GbEsMqFEe6jm7BkNLfnrQ" name="alternator" type="_8wmqgMp3Ee6jm7BkNLfnrQ" association="_1GadoMqFEe6jm7BkNLfnrQ"/>
     </packagedElement>
     <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_xw84UMpyEe6jm7BkNLfnrQ">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_xw84UcpyEe6jm7BkNLfnrQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
