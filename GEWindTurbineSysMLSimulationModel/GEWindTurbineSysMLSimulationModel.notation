@@ -11,15 +11,15 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lZzUN8scEe6jm7BkNLfnrQ"/>
       </children>
       <element xmi:type="uml:Class" href="GEWindTurbineSysMLSimulationModel.uml#_lZgZQMscEe6jm7BkNLfnrQ"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lZzUMcscEe6jm7BkNLfnrQ" x="400" y="120" width="500" height="250"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lZzUMcscEe6jm7BkNLfnrQ" x="280" y="120" width="620" height="281"/>
     </children>
-    <children xmi:type="notation:Shape" xmi:id="_lisxgMscEe6jm7BkNLfnrQ" type="StereotypeComment">
-      <styles xmi:type="notation:TitleStyle" xmi:id="_lisxgcscEe6jm7BkNLfnrQ"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_litYkMscEe6jm7BkNLfnrQ" name="BASE_ELEMENT">
+    <children xmi:type="notation:Shape" xmi:id="_7HaaEMtyEe6jm7BkNLfnrQ" type="StereotypeComment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_7HaaEctyEe6jm7BkNLfnrQ"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_7HaaE8tyEe6jm7BkNLfnrQ" name="BASE_ELEMENT">
         <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLSimulationModel.uml#_lZgZQMscEe6jm7BkNLfnrQ"/>
       </styles>
       <element xsi:nil="true"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lisxgsscEe6jm7BkNLfnrQ" x="240" y="40"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7HaaEstyEe6jm7BkNLfnrQ" x="600" y="120"/>
     </children>
     <styles xmi:type="notation:StringValueStyle" xmi:id="_lZw38cscEe6jm7BkNLfnrQ" name="diagram_compatibility_version" stringValue="1.4.0"/>
     <styles xmi:type="notation:DiagramStyle" xmi:id="_lZw38sscEe6jm7BkNLfnrQ"/>
@@ -27,15 +27,15 @@
       <owner xmi:type="uml:Model" href="GEWindTurbineSysMLSimulationModel.uml#_lXoJ8MscEe6jm7BkNLfnrQ"/>
     </styles>
     <element xmi:type="uml:Class" href="GEWindTurbineSysMLSimulationModel.uml#_lZgZQMscEe6jm7BkNLfnrQ"/>
-    <edges xmi:type="notation:Connector" xmi:id="_litYkcscEe6jm7BkNLfnrQ" type="StereotypeCommentLink" source="_lZzUMMscEe6jm7BkNLfnrQ" target="_lisxgMscEe6jm7BkNLfnrQ">
-      <styles xmi:type="notation:FontStyle" xmi:id="_litYksscEe6jm7BkNLfnrQ"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_lit_oMscEe6jm7BkNLfnrQ" name="BASE_ELEMENT">
+    <edges xmi:type="notation:Connector" xmi:id="_7HboMMtyEe6jm7BkNLfnrQ" type="StereotypeCommentLink" source="_lZzUMMscEe6jm7BkNLfnrQ" target="_7HaaEMtyEe6jm7BkNLfnrQ">
+      <styles xmi:type="notation:FontStyle" xmi:id="_7HboMctyEe6jm7BkNLfnrQ"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_7HboNctyEe6jm7BkNLfnrQ" name="BASE_ELEMENT">
         <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLSimulationModel.uml#_lZgZQMscEe6jm7BkNLfnrQ"/>
       </styles>
       <element xsi:nil="true"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_litYk8scEe6jm7BkNLfnrQ" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_litYlMscEe6jm7BkNLfnrQ"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_litYlcscEe6jm7BkNLfnrQ"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_7HboMstyEe6jm7BkNLfnrQ" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_7HboM8tyEe6jm7BkNLfnrQ"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_7HboNMtyEe6jm7BkNLfnrQ"/>
     </edges>
   </notation:Diagram>
   <notation:Diagram xmi:id="_lZ1JYMscEe6jm7BkNLfnrQ" type="PapyrusUMLClassDiagram" name="SysML 1.6 Block Definition Diagram" measurementUnit="Pixel">
