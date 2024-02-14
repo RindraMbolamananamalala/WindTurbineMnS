@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML">
+  <notation:Diagram xmi:id="_lZw38MscEe6jm7BkNLfnrQ" type="CompositeStructure" name="SysML 1.6 Internal Block Diagram" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_lZzUMMscEe6jm7BkNLfnrQ" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_lZzUMsscEe6jm7BkNLfnrQ" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_lZzUM8scEe6jm7BkNLfnrQ" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_lZzUNMscEe6jm7BkNLfnrQ" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_lZzUNcscEe6jm7BkNLfnrQ" type="Class_StructureCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_lZzUNsscEe6jm7BkNLfnrQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lZzUN8scEe6jm7BkNLfnrQ"/>
+      </children>
+      <element xmi:type="uml:Class" href="GEWindTurbineSysMLSimulationModel.uml#_lZgZQMscEe6jm7BkNLfnrQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lZzUMcscEe6jm7BkNLfnrQ" x="400" y="120" width="500" height="250"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_lisxgMscEe6jm7BkNLfnrQ" type="StereotypeComment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_lisxgcscEe6jm7BkNLfnrQ"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_litYkMscEe6jm7BkNLfnrQ" name="BASE_ELEMENT">
+        <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLSimulationModel.uml#_lZgZQMscEe6jm7BkNLfnrQ"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lisxgsscEe6jm7BkNLfnrQ" x="240" y="40"/>
+    </children>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_lZw38cscEe6jm7BkNLfnrQ" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_lZw38sscEe6jm7BkNLfnrQ"/>
+    <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_lZw388scEe6jm7BkNLfnrQ" diagramKindId="org.eclipse.papyrus.sysml16.diagram.internalblock">
+      <owner xmi:type="uml:Model" href="GEWindTurbineSysMLSimulationModel.uml#_lXoJ8MscEe6jm7BkNLfnrQ"/>
+    </styles>
+    <element xmi:type="uml:Class" href="GEWindTurbineSysMLSimulationModel.uml#_lZgZQMscEe6jm7BkNLfnrQ"/>
+    <edges xmi:type="notation:Connector" xmi:id="_litYkcscEe6jm7BkNLfnrQ" type="StereotypeCommentLink" source="_lZzUMMscEe6jm7BkNLfnrQ" target="_lisxgMscEe6jm7BkNLfnrQ">
+      <styles xmi:type="notation:FontStyle" xmi:id="_litYksscEe6jm7BkNLfnrQ"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_lit_oMscEe6jm7BkNLfnrQ" name="BASE_ELEMENT">
+        <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLSimulationModel.uml#_lZgZQMscEe6jm7BkNLfnrQ"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_litYk8scEe6jm7BkNLfnrQ" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_litYlMscEe6jm7BkNLfnrQ"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_litYlcscEe6jm7BkNLfnrQ"/>
+    </edges>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_lZ1JYMscEe6jm7BkNLfnrQ" type="PapyrusUMLClassDiagram" name="SysML 1.6 Block Definition Diagram" measurementUnit="Pixel">
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_lZ1JYcscEe6jm7BkNLfnrQ" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_lZ1JYsscEe6jm7BkNLfnrQ"/>
+    <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_lZ1JY8scEe6jm7BkNLfnrQ" diagramKindId="org.eclipse.papyrus.sysml16.diagram.blockdefinition">
+      <owner xmi:type="uml:Model" href="GEWindTurbineSysMLSimulationModel.uml#_lXoJ8MscEe6jm7BkNLfnrQ"/>
+    </styles>
+    <element xmi:type="uml:Model" href="GEWindTurbineSysMLSimulationModel.uml#_lXoJ8MscEe6jm7BkNLfnrQ"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_laHdQMscEe6jm7BkNLfnrQ" type="PapyrusUMLActivityDiagram" name="SysML 1.6 Activity Diagram" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_laHdQcscEe6jm7BkNLfnrQ" type="Activity_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_laHdQsscEe6jm7BkNLfnrQ" type="Activity_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_laHdQ8scEe6jm7BkNLfnrQ" type="Activity_KeywordLabel"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_laHdRMscEe6jm7BkNLfnrQ" type="Activity_ParameterCompartment">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_laHdRcscEe6jm7BkNLfnrQ"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_laHdRsscEe6jm7BkNLfnrQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_laHdR8scEe6jm7BkNLfnrQ"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_laHdSMscEe6jm7BkNLfnrQ" type="Activity_PreconditionCompartment">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_laHdScscEe6jm7BkNLfnrQ"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_laHdSsscEe6jm7BkNLfnrQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_laHdS8scEe6jm7BkNLfnrQ"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_laHdTMscEe6jm7BkNLfnrQ" type="Activity_PostconditionCompartment">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_laHdTcscEe6jm7BkNLfnrQ"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_laHdTsscEe6jm7BkNLfnrQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_laHdT8scEe6jm7BkNLfnrQ"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_laHdUMscEe6jm7BkNLfnrQ" type="Activity_ActivityNodeCompartment">
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_laHdUcscEe6jm7BkNLfnrQ"/>
+      </children>
+      <element xmi:type="uml:Activity" href="GEWindTurbineSysMLSimulationModel.uml#_laFoEMscEe6jm7BkNLfnrQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_laHdUsscEe6jm7BkNLfnrQ"/>
+    </children>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_laHdU8scEe6jm7BkNLfnrQ" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_laHdVMscEe6jm7BkNLfnrQ"/>
+    <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_laHdVcscEe6jm7BkNLfnrQ" diagramKindId="org.eclipse.papyrus.sysml16.diagram.activity">
+      <owner xmi:type="uml:Model" href="GEWindTurbineSysMLSimulationModel.uml#_lXoJ8MscEe6jm7BkNLfnrQ"/>
+    </styles>
+    <element xmi:type="uml:Activity" href="GEWindTurbineSysMLSimulationModel.uml#_laFoEMscEe6jm7BkNLfnrQ"/>
+  </notation:Diagram>
+</xmi:XMI>
