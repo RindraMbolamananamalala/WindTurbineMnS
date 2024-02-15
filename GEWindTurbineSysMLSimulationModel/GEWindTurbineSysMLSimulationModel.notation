@@ -11,7 +11,7 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lZzUN8scEe6jm7BkNLfnrQ"/>
       </children>
       <element xmi:type="uml:Class" href="GEWindTurbineSysMLSimulationModel.uml#_lZgZQMscEe6jm7BkNLfnrQ"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lZzUMcscEe6jm7BkNLfnrQ" x="280" y="120" width="681" height="281"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lZzUMcscEe6jm7BkNLfnrQ" x="280" y="120" width="561" height="281"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_ZjaQwMvnEe6tl_-V09awNw" type="StereotypeComment">
       <styles xmi:type="notation:TitleStyle" xmi:id="_ZjaQwcvnEe6tl_-V09awNw"/>
