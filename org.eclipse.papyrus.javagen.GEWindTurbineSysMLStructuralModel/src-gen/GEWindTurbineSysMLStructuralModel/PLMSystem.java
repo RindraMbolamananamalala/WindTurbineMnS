@@ -8,5 +8,5 @@ package GEWindTurbineSysMLStructuralModel;
 /**
  * 
  */
-public class PLM {
+public class PLMSystem {
 }

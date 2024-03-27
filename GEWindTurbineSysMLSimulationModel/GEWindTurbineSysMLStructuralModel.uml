@@ -140,7 +140,7 @@
       <ownedEnd xmi:type="uml:Property" xmi:id="_FgOAQuxJEe67n43vCMY80w" name="substitutingmaterial" type="_B4tuEOxJEe67n43vCMY80w" association="_FgNZMOxJEe67n43vCMY80w"/>
       <ownedEnd xmi:type="uml:Property" xmi:id="_FgOnUOxJEe67n43vCMY80w" type="_wK3MQOxIEe67n43vCMY80w" association="_FgNZMOxJEe67n43vCMY80w"/>
     </packagedElement>
-    <packagedElement xmi:type="uml:Node" xmi:id="_9hCtwOxJEe67n43vCMY80w" name="PLM"/>
+    <packagedElement xmi:type="uml:Node" xmi:id="_9hCtwOxJEe67n43vCMY80w" name="PLMSystem"/>
     <packagedElement xmi:type="uml:Association" xmi:id="_EZsAkOxKEe67n43vCMY80w" memberEnd="_EZsnouxKEe67n43vCMY80w _EZtOsOxKEe67n43vCMY80w">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_EZsnoOxKEe67n43vCMY80w" source="org.eclipse.papyrus">
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_EZsnoexKEe67n43vCMY80w" key="nature" value="UML_Nature"/>
