@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>GEWindTurbineSysMLSimulationModel</name>
+	<name>GEWindTurbineSysMLStructuralModel</name>
 	<comment></comment>
 	<projects>
+		<project>org.eclipse.papyrus.javagen.GEWindTurbineSysMLStructuralModel</project>
 	</projects>
 	<buildSpec>
 	</buildSpec>
