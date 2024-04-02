@@ -98,7 +98,7 @@
       <ownedUseCase xmi:type="uml:UseCase" xmi:id="_AF8swOxFEe67n43vCMY80w" name="ChangingPowerGenerationEquation" subject="_-pRTYOxEEe67n43vCMY80w">
         <include xmi:type="uml:Include" xmi:id="_U8j9AOxKEe67n43vCMY80w" addition="_dU4vUOxJEe67n43vCMY80w"/>
       </ownedUseCase>
-      <ownedUseCase xmi:type="uml:UseCase" xmi:id="_K7hAwOxIEe67n43vCMY80w" name="AddingPhysicalMaterials" subject="_-pRTYOxEEe67n43vCMY80w">
+      <ownedUseCase xmi:type="uml:UseCase" xmi:id="_K7hAwOxIEe67n43vCMY80w" name="AddingPhysicalMaterial" subject="_-pRTYOxEEe67n43vCMY80w">
         <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_PKgpYOxLEe67n43vCMY80w" name="ExtensionPoint2"/>
         <include xmi:type="uml:Include" xmi:id="_Wj7jcOxKEe67n43vCMY80w" addition="_dU4vUOxJEe67n43vCMY80w"/>
       </ownedUseCase>

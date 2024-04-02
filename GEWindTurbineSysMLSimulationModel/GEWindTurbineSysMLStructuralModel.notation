@@ -145,21 +145,21 @@
               <element xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_f90cUOuMEe6hBcWr_60q5Q"/>
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f97KAeuMEe6hBcWr_60q5Q" x="294" y="27" width="141" height="141"/>
             </children>
-            <children xmi:type="notation:Shape" xmi:id="_9TcEsOxLEe67n43vCMY80w" type="StereotypeComment">
-              <styles xmi:type="notation:TitleStyle" xmi:id="_9TcEsexLEe67n43vCMY80w"/>
-              <styles xmi:type="notation:EObjectValueStyle" xmi:id="_9TcEs-xLEe67n43vCMY80w" name="BASE_ELEMENT">
+            <children xmi:type="notation:Shape" xmi:id="_EtzRMPDxEe6U7dKTbf4ELg" type="StereotypeComment">
+              <styles xmi:type="notation:TitleStyle" xmi:id="_EtzRMfDxEe6U7dKTbf4ELg"/>
+              <styles xmi:type="notation:EObjectValueStyle" xmi:id="_EtzRM_DxEe6U7dKTbf4ELg" name="BASE_ELEMENT">
                 <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_clq0wOuMEe6hBcWr_60q5Q"/>
               </styles>
               <element xsi:nil="true"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9TcEsuxLEe67n43vCMY80w" x="234" y="7"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EtzRMvDxEe6U7dKTbf4ELg" x="234" y="7"/>
             </children>
-            <children xmi:type="notation:Shape" xmi:id="_9TiLUOxLEe67n43vCMY80w" type="StereotypeComment">
-              <styles xmi:type="notation:TitleStyle" xmi:id="_9TiLUexLEe67n43vCMY80w"/>
-              <styles xmi:type="notation:EObjectValueStyle" xmi:id="_9TiLU-xLEe67n43vCMY80w" name="BASE_ELEMENT">
+            <children xmi:type="notation:Shape" xmi:id="_Et9CM_DxEe6U7dKTbf4ELg" type="StereotypeComment">
+              <styles xmi:type="notation:TitleStyle" xmi:id="_Et9CNPDxEe6U7dKTbf4ELg"/>
+              <styles xmi:type="notation:EObjectValueStyle" xmi:id="_Et9CNvDxEe6U7dKTbf4ELg" name="BASE_ELEMENT">
                 <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_f90cUOuMEe6hBcWr_60q5Q"/>
               </styles>
               <element xsi:nil="true"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9TiLUuxLEe67n43vCMY80w" x="494" y="27"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Et9CNfDxEe6U7dKTbf4ELg" x="494" y="27"/>
             </children>
             <styles xmi:type="notation:TitleStyle" xmi:id="_T5QOROw8Ee6hBcWr_60q5Q"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_T5QORew8Ee6hBcWr_60q5Q"/>
@@ -167,29 +167,29 @@
           <element xmi:type="uml:Model" href="GEWindTurbineSysMLStructuralModel.uml#_T5HEUOw8Ee6hBcWr_60q5Q"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_T5QOQew8Ee6hBcWr_60q5Q" x="154" y="7" width="491"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_9TJw0OxLEe67n43vCMY80w" type="StereotypeComment">
-          <styles xmi:type="notation:TitleStyle" xmi:id="_9TJw0exLEe67n43vCMY80w"/>
-          <styles xmi:type="notation:EObjectValueStyle" xmi:id="_9TJw0-xLEe67n43vCMY80w" name="BASE_ELEMENT">
+        <children xmi:type="notation:Shape" xmi:id="_EtXMUPDxEe6U7dKTbf4ELg" type="StereotypeComment">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_EtXMUfDxEe6U7dKTbf4ELg"/>
+          <styles xmi:type="notation:EObjectValueStyle" xmi:id="_EtXMU_DxEe6U7dKTbf4ELg" name="BASE_ELEMENT">
             <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_5vNhUOuNEe6hBcWr_60q5Q"/>
           </styles>
           <element xsi:nil="true"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9TJw0uxLEe67n43vCMY80w" x="834" y="327"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EtXMUvDxEe6U7dKTbf4ELg" x="834" y="327"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_9TPQYOxLEe67n43vCMY80w" type="StereotypeComment">
-          <styles xmi:type="notation:TitleStyle" xmi:id="_9TPQYexLEe67n43vCMY80w"/>
-          <styles xmi:type="notation:EObjectValueStyle" xmi:id="_9TPQY-xLEe67n43vCMY80w" name="BASE_ELEMENT">
+        <children xmi:type="notation:Shape" xmi:id="_EtehEPDxEe6U7dKTbf4ELg" type="StereotypeComment">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_EtehEfDxEe6U7dKTbf4ELg"/>
+          <styles xmi:type="notation:EObjectValueStyle" xmi:id="_EtehE_DxEe6U7dKTbf4ELg" name="BASE_ELEMENT">
             <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_2FMGoOuNEe6hBcWr_60q5Q"/>
           </styles>
           <element xsi:nil="true"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9TPQYuxLEe67n43vCMY80w" x="674" y="307"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EtehEvDxEe6U7dKTbf4ELg" x="674" y="307"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_9TTh0-xLEe67n43vCMY80w" type="StereotypeComment">
-          <styles xmi:type="notation:TitleStyle" xmi:id="_9TTh1OxLEe67n43vCMY80w"/>
-          <styles xmi:type="notation:EObjectValueStyle" xmi:id="_9TUI4OxLEe67n43vCMY80w" name="BASE_ELEMENT">
+        <children xmi:type="notation:Shape" xmi:id="_EtlOwPDxEe6U7dKTbf4ELg" type="StereotypeComment">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_EtlOwfDxEe6U7dKTbf4ELg"/>
+          <styles xmi:type="notation:EObjectValueStyle" xmi:id="_EtlOw_DxEe6U7dKTbf4ELg" name="BASE_ELEMENT">
             <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_jZEbMOuMEe6hBcWr_60q5Q"/>
           </styles>
           <element xsi:nil="true"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9TTh1exLEe67n43vCMY80w" x="394" y="307"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EtlOwvDxEe6U7dKTbf4ELg" x="394" y="307"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_4KaWNOwbEe6hBcWr_60q5Q"/>
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4KaWNewbEe6hBcWr_60q5Q"/>
@@ -230,14 +230,6 @@
           <element xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_ZaHz4OuOEe6hBcWr_60q5Q"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZaY5oeuOEe6hBcWr_60q5Q" x="34" y="7"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_9TqHIOxLEe67n43vCMY80w" type="StereotypeComment">
-          <styles xmi:type="notation:TitleStyle" xmi:id="_9TqHIexLEe67n43vCMY80w"/>
-          <styles xmi:type="notation:EObjectValueStyle" xmi:id="_9TqHI-xLEe67n43vCMY80w" name="BASE_ELEMENT">
-            <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_ZaHz4OuOEe6hBcWr_60q5Q"/>
-          </styles>
-          <element xsi:nil="true"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9TqHIuxLEe67n43vCMY80w" x="234" y="7"/>
-        </children>
         <children xmi:type="notation:Shape" xmi:id="_SnGPkOxMEe67n43vCMY80w" type="Class_Shape_CN">
           <children xmi:type="notation:DecorationNode" xmi:id="_SnGPkuxMEe67n43vCMY80w" type="Class_NameLabel_CN"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_SnGPk-xMEe67n43vCMY80w" type="Class_FloatingNameLabel_CN">
@@ -264,13 +256,21 @@
           <element xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_SmtOAOxMEe67n43vCMY80w"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SnGPkexMEe67n43vCMY80w" x="54" y="227"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_SnQnoOxMEe67n43vCMY80w" type="StereotypeComment">
-          <styles xmi:type="notation:TitleStyle" xmi:id="_SnQnoexMEe67n43vCMY80w"/>
-          <styles xmi:type="notation:EObjectValueStyle" xmi:id="_SnQno-xMEe67n43vCMY80w" name="BASE_ELEMENT">
+        <children xmi:type="notation:Shape" xmi:id="_EuKdkPDxEe6U7dKTbf4ELg" type="StereotypeComment">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_EuKdkfDxEe6U7dKTbf4ELg"/>
+          <styles xmi:type="notation:EObjectValueStyle" xmi:id="_EuKdk_DxEe6U7dKTbf4ELg" name="BASE_ELEMENT">
+            <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_ZaHz4OuOEe6hBcWr_60q5Q"/>
+          </styles>
+          <element xsi:nil="true"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EuKdkvDxEe6U7dKTbf4ELg" x="234" y="7"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_EuSZYPDxEe6U7dKTbf4ELg" type="StereotypeComment">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_EuSZYfDxEe6U7dKTbf4ELg"/>
+          <styles xmi:type="notation:EObjectValueStyle" xmi:id="_EuSZY_DxEe6U7dKTbf4ELg" name="BASE_ELEMENT">
             <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_SmtOAOxMEe67n43vCMY80w"/>
           </styles>
           <element xsi:nil="true"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SnQnouxMEe67n43vCMY80w" x="200"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EuSZYvDxEe6U7dKTbf4ELg" x="254" y="227"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_eUHDlOw8Ee6hBcWr_60q5Q"/>
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eUHDlew8Ee6hBcWr_60q5Q"/>
@@ -307,14 +307,6 @@
           <element xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_J3TJwOuPEe6hBcWr_60q5Q"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_J3dh0euPEe6hBcWr_60q5Q" x="134" y="15"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_9TwNwOxLEe67n43vCMY80w" type="StereotypeComment">
-          <styles xmi:type="notation:TitleStyle" xmi:id="_9TwNwexLEe67n43vCMY80w"/>
-          <styles xmi:type="notation:EObjectValueStyle" xmi:id="_9TwNw-xLEe67n43vCMY80w" name="BASE_ELEMENT">
-            <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_J3TJwOuPEe6hBcWr_60q5Q"/>
-          </styles>
-          <element xsi:nil="true"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9TwNwuxLEe67n43vCMY80w" x="254" y="15"/>
-        </children>
         <children xmi:type="notation:Shape" xmi:id="_b0WCQOxMEe67n43vCMY80w" type="Class_Shape_CN">
           <children xmi:type="notation:DecorationNode" xmi:id="_b0WCQuxMEe67n43vCMY80w" type="Class_NameLabel_CN"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_b0WCQ-xMEe67n43vCMY80w" type="Class_FloatingNameLabel_CN">
@@ -341,13 +333,21 @@
           <element xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_bz6kcOxMEe67n43vCMY80w"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_b0WCQexMEe67n43vCMY80w" x="134" y="190"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_b0jdoOxMEe67n43vCMY80w" type="StereotypeComment">
-          <styles xmi:type="notation:TitleStyle" xmi:id="_b0jdoexMEe67n43vCMY80w"/>
-          <styles xmi:type="notation:EObjectValueStyle" xmi:id="_b0jdo-xMEe67n43vCMY80w" name="BASE_ELEMENT">
+        <children xmi:type="notation:Shape" xmi:id="_EubjUPDxEe6U7dKTbf4ELg" type="StereotypeComment">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_EubjUfDxEe6U7dKTbf4ELg"/>
+          <styles xmi:type="notation:EObjectValueStyle" xmi:id="_EubjU_DxEe6U7dKTbf4ELg" name="BASE_ELEMENT">
+            <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_J3TJwOuPEe6hBcWr_60q5Q"/>
+          </styles>
+          <element xsi:nil="true"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EubjUvDxEe6U7dKTbf4ELg" x="334" y="15"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_EuhC4PDxEe6U7dKTbf4ELg" type="StereotypeComment">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_EuhC4fDxEe6U7dKTbf4ELg"/>
+          <styles xmi:type="notation:EObjectValueStyle" xmi:id="_EuhC4_DxEe6U7dKTbf4ELg" name="BASE_ELEMENT">
             <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_bz6kcOxMEe67n43vCMY80w"/>
           </styles>
           <element xsi:nil="true"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_b0jdouxMEe67n43vCMY80w" x="200"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EuhC4vDxEe6U7dKTbf4ELg" x="334" y="190"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_n7VchOw8Ee6hBcWr_60q5Q"/>
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_n7Vchew8Ee6hBcWr_60q5Q"/>
@@ -400,13 +400,13 @@
       <element xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_E5tSgOxMEe67n43vCMY80w"/>
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_E5-_UexMEe67n43vCMY80w" x="80" y="460"/>
     </children>
-    <children xmi:type="notation:Shape" xmi:id="_E6LMluxMEe67n43vCMY80w" type="StereotypeComment">
-      <styles xmi:type="notation:TitleStyle" xmi:id="_E6LMl-xMEe67n43vCMY80w"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_E6LzoOxMEe67n43vCMY80w" name="BASE_ELEMENT">
+    <children xmi:type="notation:Shape" xmi:id="_Eul7YPDxEe6U7dKTbf4ELg" type="StereotypeComment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_Eul7YfDxEe6U7dKTbf4ELg"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_Eul7Y_DxEe6U7dKTbf4ELg" name="BASE_ELEMENT">
         <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_E5tSgOxMEe67n43vCMY80w"/>
       </styles>
       <element xsi:nil="true"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_E6LMmOxMEe67n43vCMY80w" x="200"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Eul7YvDxEe6U7dKTbf4ELg" x="280" y="460"/>
     </children>
     <styles xmi:type="notation:StringValueStyle" xmi:id="_F7uzceuMEe6hBcWr_60q5Q" name="diagram_compatibility_version" stringValue="1.4.0"/>
     <styles xmi:type="notation:DiagramStyle" xmi:id="_F7uzcuuMEe6hBcWr_60q5Q"/>
@@ -600,86 +600,6 @@
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_NUN8kOuPEe6hBcWr_60q5Q" id="(0.5673758865248227,1.0)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_NUN8keuPEe6hBcWr_60q5Q" id="(0.5454545454545454,0.0)"/>
     </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_9TJw1OxLEe67n43vCMY80w" type="StereotypeCommentLink" source="_5vWrQOuNEe6hBcWr_60q5Q" target="_9TJw0OxLEe67n43vCMY80w">
-      <styles xmi:type="notation:FontStyle" xmi:id="_9TJw1exLEe67n43vCMY80w"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_9TJw2exLEe67n43vCMY80w" name="BASE_ELEMENT">
-        <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_5vNhUOuNEe6hBcWr_60q5Q"/>
-      </styles>
-      <element xsi:nil="true"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9TJw1uxLEe67n43vCMY80w" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9TJw1-xLEe67n43vCMY80w"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9TJw2OxLEe67n43vCMY80w"/>
-    </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_9TPQZOxLEe67n43vCMY80w" type="StereotypeCommentLink" source="_2FUCcOuNEe6hBcWr_60q5Q" target="_9TPQYOxLEe67n43vCMY80w">
-      <styles xmi:type="notation:FontStyle" xmi:id="_9TPQZexLEe67n43vCMY80w"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_9TPQaexLEe67n43vCMY80w" name="BASE_ELEMENT">
-        <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_2FMGoOuNEe6hBcWr_60q5Q"/>
-      </styles>
-      <element xsi:nil="true"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9TPQZuxLEe67n43vCMY80w" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9TPQZ-xLEe67n43vCMY80w"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9TPQaOxLEe67n43vCMY80w"/>
-    </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_9TUI4exLEe67n43vCMY80w" type="StereotypeCommentLink" source="_jZQocOuMEe6hBcWr_60q5Q" target="_9TTh0-xLEe67n43vCMY80w">
-      <styles xmi:type="notation:FontStyle" xmi:id="_9TUI4uxLEe67n43vCMY80w"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_9TUI5uxLEe67n43vCMY80w" name="BASE_ELEMENT">
-        <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_jZEbMOuMEe6hBcWr_60q5Q"/>
-      </styles>
-      <element xsi:nil="true"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9TUI4-xLEe67n43vCMY80w" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9TUI5OxLEe67n43vCMY80w"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9TUI5exLEe67n43vCMY80w"/>
-    </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_9TcEtOxLEe67n43vCMY80w" type="StereotypeCommentLink" source="_clywkOuMEe6hBcWr_60q5Q" target="_9TcEsOxLEe67n43vCMY80w">
-      <styles xmi:type="notation:FontStyle" xmi:id="_9TcEtexLEe67n43vCMY80w"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_9TcEuexLEe67n43vCMY80w" name="BASE_ELEMENT">
-        <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_clq0wOuMEe6hBcWr_60q5Q"/>
-      </styles>
-      <element xsi:nil="true"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9TcEtuxLEe67n43vCMY80w" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9TcEt-xLEe67n43vCMY80w"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9TcEuOxLEe67n43vCMY80w"/>
-    </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_9TiLVOxLEe67n43vCMY80w" type="StereotypeCommentLink" source="_f97KAOuMEe6hBcWr_60q5Q" target="_9TiLUOxLEe67n43vCMY80w">
-      <styles xmi:type="notation:FontStyle" xmi:id="_9TiLVexLEe67n43vCMY80w"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_9TiLWexLEe67n43vCMY80w" name="BASE_ELEMENT">
-        <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_f90cUOuMEe6hBcWr_60q5Q"/>
-      </styles>
-      <element xsi:nil="true"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9TiLVuxLEe67n43vCMY80w" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9TiLV-xLEe67n43vCMY80w"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9TiLWOxLEe67n43vCMY80w"/>
-    </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_9TqHJOxLEe67n43vCMY80w" type="StereotypeCommentLink" source="_ZaY5oOuOEe6hBcWr_60q5Q" target="_9TqHIOxLEe67n43vCMY80w">
-      <styles xmi:type="notation:FontStyle" xmi:id="_9TqHJexLEe67n43vCMY80w"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_9TqHKexLEe67n43vCMY80w" name="BASE_ELEMENT">
-        <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_ZaHz4OuOEe6hBcWr_60q5Q"/>
-      </styles>
-      <element xsi:nil="true"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9TqHJuxLEe67n43vCMY80w" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9TqHJ-xLEe67n43vCMY80w"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9TqHKOxLEe67n43vCMY80w"/>
-    </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_9TwNxOxLEe67n43vCMY80w" type="StereotypeCommentLink" source="_J3dh0OuPEe6hBcWr_60q5Q" target="_9TwNwOxLEe67n43vCMY80w">
-      <styles xmi:type="notation:FontStyle" xmi:id="_9TwNxexLEe67n43vCMY80w"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_9TwNyexLEe67n43vCMY80w" name="BASE_ELEMENT">
-        <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_J3TJwOuPEe6hBcWr_60q5Q"/>
-      </styles>
-      <element xsi:nil="true"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9TwNxuxLEe67n43vCMY80w" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9TwNx-xLEe67n43vCMY80w"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9TwNyOxLEe67n43vCMY80w"/>
-    </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_E6LzoexMEe67n43vCMY80w" type="StereotypeCommentLink" source="_E5-_UOxMEe67n43vCMY80w" target="_E6LMluxMEe67n43vCMY80w">
-      <styles xmi:type="notation:FontStyle" xmi:id="_E6LzouxMEe67n43vCMY80w"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_E6LzpuxMEe67n43vCMY80w" name="BASE_ELEMENT">
-        <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_E5tSgOxMEe67n43vCMY80w"/>
-      </styles>
-      <element xsi:nil="true"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_E6Lzo-xMEe67n43vCMY80w" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_E6LzpOxMEe67n43vCMY80w"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_E6LzpexMEe67n43vCMY80w"/>
-    </edges>
     <edges xmi:type="notation:Connector" xmi:id="_IrhXQOxMEe67n43vCMY80w" type="Association_Edge" source="_E5-_UOxMEe67n43vCMY80w" target="_jZQocOuMEe6hBcWr_60q5Q">
       <children xmi:type="notation:DecorationNode" xmi:id="_Irh-UOxMEe67n43vCMY80w" type="Association_StereotypeLabel">
         <styles xmi:type="notation:BooleanValueStyle" xmi:id="_I5fh0OxMEe67n43vCMY80w" name="IS_UPDATED_POSITION" booleanValue="true"/>
@@ -742,16 +662,6 @@
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_MN21kOxMEe67n43vCMY80w" id="(0.6837606837606838,1.0)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_MN21kexMEe67n43vCMY80w" id="(0.0,0.78125)"/>
     </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_SnQnpOxMEe67n43vCMY80w" type="StereotypeCommentLink" source="_SnGPkOxMEe67n43vCMY80w" target="_SnQnoOxMEe67n43vCMY80w">
-      <styles xmi:type="notation:FontStyle" xmi:id="_SnQnpexMEe67n43vCMY80w"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_SnQnqexMEe67n43vCMY80w" name="BASE_ELEMENT">
-        <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_SmtOAOxMEe67n43vCMY80w"/>
-      </styles>
-      <element xsi:nil="true"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_SnQnpuxMEe67n43vCMY80w" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_SnQnp-xMEe67n43vCMY80w"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_SnQnqOxMEe67n43vCMY80w"/>
-    </edges>
     <edges xmi:type="notation:Connector" xmi:id="_XWEgIOxMEe67n43vCMY80w" type="Association_Edge" source="_SnGPkOxMEe67n43vCMY80w" target="_ZaY5oOuOEe6hBcWr_60q5Q">
       <children xmi:type="notation:DecorationNode" xmi:id="_XWEgI-xMEe67n43vCMY80w" type="Association_StereotypeLabel">
         <layoutConstraint xmi:type="notation:Location" xmi:id="_XWEgJOxMEe67n43vCMY80w" y="-20"/>
@@ -776,16 +686,6 @@
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_XWEgIuxMEe67n43vCMY80w" points="[520, 1120, -643984, -643984]$[520, 1049, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_XWdhsOxMEe67n43vCMY80w" id="(0.4,0.0)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_XWdhsexMEe67n43vCMY80w" id="(0.6,1.0)"/>
-    </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_b0jdpOxMEe67n43vCMY80w" type="StereotypeCommentLink" source="_b0WCQOxMEe67n43vCMY80w" target="_b0jdoOxMEe67n43vCMY80w">
-      <styles xmi:type="notation:FontStyle" xmi:id="_b0jdpexMEe67n43vCMY80w"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_b0jdqexMEe67n43vCMY80w" name="BASE_ELEMENT">
-        <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_bz6kcOxMEe67n43vCMY80w"/>
-      </styles>
-      <element xsi:nil="true"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_b0jdpuxMEe67n43vCMY80w" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_b0jdp-xMEe67n43vCMY80w"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_b0jdqOxMEe67n43vCMY80w"/>
     </edges>
     <edges xmi:type="notation:Connector" xmi:id="_fzLPUOxMEe67n43vCMY80w" type="Association_Edge" source="_b0WCQOxMEe67n43vCMY80w" target="_J3dh0OuPEe6hBcWr_60q5Q">
       <children xmi:type="notation:DecorationNode" xmi:id="_fzLPU-xMEe67n43vCMY80w" type="Association_StereotypeLabel">
@@ -842,6 +742,106 @@
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_iNbrQuxMEe67n43vCMY80w" points="[140, 600, -643984, -643984]$[140, 1340, -643984, -643984]$[1300, 1340, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_iN3wIOxMEe67n43vCMY80w" id="(0.5128205128205128,1.0)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_iN3wIexMEe67n43vCMY80w" id="(0.0,0.9140625)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_EtXMVPDxEe6U7dKTbf4ELg" type="StereotypeCommentLink" source="_5vWrQOuNEe6hBcWr_60q5Q" target="_EtXMUPDxEe6U7dKTbf4ELg">
+      <styles xmi:type="notation:FontStyle" xmi:id="_EtXMVfDxEe6U7dKTbf4ELg"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_EtXzYfDxEe6U7dKTbf4ELg" name="BASE_ELEMENT">
+        <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_5vNhUOuNEe6hBcWr_60q5Q"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_EtXMVvDxEe6U7dKTbf4ELg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_EtXMV_DxEe6U7dKTbf4ELg"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_EtXzYPDxEe6U7dKTbf4ELg"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_EtehFPDxEe6U7dKTbf4ELg" type="StereotypeCommentLink" source="_2FUCcOuNEe6hBcWr_60q5Q" target="_EtehEPDxEe6U7dKTbf4ELg">
+      <styles xmi:type="notation:FontStyle" xmi:id="_EtehFfDxEe6U7dKTbf4ELg"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_EtehGfDxEe6U7dKTbf4ELg" name="BASE_ELEMENT">
+        <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_2FMGoOuNEe6hBcWr_60q5Q"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_EtehFvDxEe6U7dKTbf4ELg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_EtehF_DxEe6U7dKTbf4ELg"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_EtehGPDxEe6U7dKTbf4ELg"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_EtlOxPDxEe6U7dKTbf4ELg" type="StereotypeCommentLink" source="_jZQocOuMEe6hBcWr_60q5Q" target="_EtlOwPDxEe6U7dKTbf4ELg">
+      <styles xmi:type="notation:FontStyle" xmi:id="_EtlOxfDxEe6U7dKTbf4ELg"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_EtlOyfDxEe6U7dKTbf4ELg" name="BASE_ELEMENT">
+        <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_jZEbMOuMEe6hBcWr_60q5Q"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_EtlOxvDxEe6U7dKTbf4ELg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_EtlOx_DxEe6U7dKTbf4ELg"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_EtlOyPDxEe6U7dKTbf4ELg"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_EtzRNPDxEe6U7dKTbf4ELg" type="StereotypeCommentLink" source="_clywkOuMEe6hBcWr_60q5Q" target="_EtzRMPDxEe6U7dKTbf4ELg">
+      <styles xmi:type="notation:FontStyle" xmi:id="_EtzRNfDxEe6U7dKTbf4ELg"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_EtzROfDxEe6U7dKTbf4ELg" name="BASE_ELEMENT">
+        <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_clq0wOuMEe6hBcWr_60q5Q"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_EtzRNvDxEe6U7dKTbf4ELg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_EtzRN_DxEe6U7dKTbf4ELg"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_EtzROPDxEe6U7dKTbf4ELg"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_Et9pQPDxEe6U7dKTbf4ELg" type="StereotypeCommentLink" source="_f97KAOuMEe6hBcWr_60q5Q" target="_Et9CM_DxEe6U7dKTbf4ELg">
+      <styles xmi:type="notation:FontStyle" xmi:id="_Et9pQfDxEe6U7dKTbf4ELg"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_Et9pRfDxEe6U7dKTbf4ELg" name="BASE_ELEMENT">
+        <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_f90cUOuMEe6hBcWr_60q5Q"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Et9pQvDxEe6U7dKTbf4ELg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Et9pQ_DxEe6U7dKTbf4ELg"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Et9pRPDxEe6U7dKTbf4ELg"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_EuKdlPDxEe6U7dKTbf4ELg" type="StereotypeCommentLink" source="_ZaY5oOuOEe6hBcWr_60q5Q" target="_EuKdkPDxEe6U7dKTbf4ELg">
+      <styles xmi:type="notation:FontStyle" xmi:id="_EuKdlfDxEe6U7dKTbf4ELg"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_EuKdmfDxEe6U7dKTbf4ELg" name="BASE_ELEMENT">
+        <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_ZaHz4OuOEe6hBcWr_60q5Q"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_EuKdlvDxEe6U7dKTbf4ELg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_EuKdl_DxEe6U7dKTbf4ELg"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_EuKdmPDxEe6U7dKTbf4ELg"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_EuSZZPDxEe6U7dKTbf4ELg" type="StereotypeCommentLink" source="_SnGPkOxMEe67n43vCMY80w" target="_EuSZYPDxEe6U7dKTbf4ELg">
+      <styles xmi:type="notation:FontStyle" xmi:id="_EuSZZfDxEe6U7dKTbf4ELg"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_EuSZafDxEe6U7dKTbf4ELg" name="BASE_ELEMENT">
+        <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_SmtOAOxMEe67n43vCMY80w"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_EuSZZvDxEe6U7dKTbf4ELg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_EuSZZ_DxEe6U7dKTbf4ELg"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_EuSZaPDxEe6U7dKTbf4ELg"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_EubjVPDxEe6U7dKTbf4ELg" type="StereotypeCommentLink" source="_J3dh0OuPEe6hBcWr_60q5Q" target="_EubjUPDxEe6U7dKTbf4ELg">
+      <styles xmi:type="notation:FontStyle" xmi:id="_EubjVfDxEe6U7dKTbf4ELg"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_EubjWfDxEe6U7dKTbf4ELg" name="BASE_ELEMENT">
+        <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_J3TJwOuPEe6hBcWr_60q5Q"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_EubjVvDxEe6U7dKTbf4ELg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_EubjV_DxEe6U7dKTbf4ELg"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_EubjWPDxEe6U7dKTbf4ELg"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_EuhC5PDxEe6U7dKTbf4ELg" type="StereotypeCommentLink" source="_b0WCQOxMEe67n43vCMY80w" target="_EuhC4PDxEe6U7dKTbf4ELg">
+      <styles xmi:type="notation:FontStyle" xmi:id="_EuhC5fDxEe6U7dKTbf4ELg"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_EuhC6fDxEe6U7dKTbf4ELg" name="BASE_ELEMENT">
+        <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_bz6kcOxMEe67n43vCMY80w"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_EuhC5vDxEe6U7dKTbf4ELg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_EuhC5_DxEe6U7dKTbf4ELg"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_EuhC6PDxEe6U7dKTbf4ELg"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_Eul7ZPDxEe6U7dKTbf4ELg" type="StereotypeCommentLink" source="_E5-_UOxMEe67n43vCMY80w" target="_Eul7YPDxEe6U7dKTbf4ELg">
+      <styles xmi:type="notation:FontStyle" xmi:id="_Eul7ZfDxEe6U7dKTbf4ELg"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_Eul7afDxEe6U7dKTbf4ELg" name="BASE_ELEMENT">
+        <eObjectValue xmi:type="uml:Class" href="GEWindTurbineSysMLStructuralModel.uml#_E5tSgOxMEe67n43vCMY80w"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Eul7ZvDxEe6U7dKTbf4ELg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Eul7Z_DxEe6U7dKTbf4ELg"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Eul7aPDxEe6U7dKTbf4ELg"/>
     </edges>
   </notation:Diagram>
   <notation:Diagram xmi:id="_89ICAOxBEe6hBcWr_60q5Q" type="UseCase" name="SysML1.6UseCaseDiagram" measurementUnit="Pixel">
