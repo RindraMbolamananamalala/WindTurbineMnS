@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xmi:XMI xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:Blocks="http://www.eclipse.org/papyrus/sysml/1.6/SysML/Blocks" xmlns:Codegen="http://www.eclipse.org/papyrus/Codegen/1" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xsi:schemaLocation="http://www.eclipse.org/papyrus/sysml/1.6/SysML/Blocks http://www.eclipse.org/papyrus/sysml/1.6/SysML#//blocks">
+<xmi:XMI xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:Activities="http://www.eclipse.org/papyrus/sysml/1.6/SysML/Activities" xmlns:Blocks="http://www.eclipse.org/papyrus/sysml/1.6/SysML/Blocks" xmlns:Codegen="http://www.eclipse.org/papyrus/Codegen/1" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xsi:schemaLocation="http://www.eclipse.org/papyrus/sysml/1.6/SysML/Activities http://www.eclipse.org/papyrus/sysml/1.6/SysML#//activities http://www.eclipse.org/papyrus/sysml/1.6/SysML/Blocks http://www.eclipse.org/papyrus/sysml/1.6/SysML#//blocks">
   <uml:Model xmi:id="_F5gl4OuMEe6hBcWr_60q5Q" name="GEWindTurbineSysMLStructuralModel">
     <packageImport xmi:type="uml:PackageImport" xmi:id="_F65F8euMEe6hBcWr_60q5Q">
       <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
@@ -218,6 +218,79 @@
       </eAnnotations>
       <ownedEnd xmi:type="uml:Property" xmi:id="_iNOP4OxMEe67n43vCMY80w" name="windturbine" type="_E5tSgOxMEe67n43vCMY80w" association="_iNNBwOxMEe67n43vCMY80w"/>
     </packagedElement>
+    <packagedElement xmi:type="uml:Activity" xmi:id="_UL1J8PH4Ee6zjY69uWdHrA" name="PowerGenereration">
+      <ownedBehavior xmi:type="uml:Activity" xmi:id="_2NVgcPH4Ee6zjY69uWdHrA" name="Rotor" node="_sfyyMPH6Ee6zjY69uWdHrA _3ns6wPH6Ee6zjY69uWdHrA _VG0rMPH7Ee6zjY69uWdHrA _BqG-YPH8Ee6zjY69uWdHrA">
+        <ownedBehavior xmi:type="uml:Activity" xmi:id="_LhN4UPH6Ee6zjY69uWdHrA" name="Rotor"/>
+        <ownedBehavior xmi:type="uml:FunctionBehavior" xmi:id="_80HVQPH6Ee6zjY69uWdHrA" name="FunctionBehavior3"/>
+        <ownedBehavior xmi:type="uml:FunctionBehavior" xmi:id="_sqV_4PH7Ee6zjY69uWdHrA" name="Braking"/>
+        <ownedBehavior xmi:type="uml:FunctionBehavior" xmi:id="_-x9skPH7Ee6zjY69uWdHrA" name="Rotates"/>
+        <ownedBehavior xmi:type="uml:Activity" xmi:id="_DbQL4PH8Ee6zjY69uWdHrA" name="Decelerate"/>
+        <ownedBehavior xmi:type="uml:Activity" xmi:id="_LFznUPH9Ee6zjY69uWdHrA" name="Activity14"/>
+        <ownedBehavior xmi:type="uml:Activity" xmi:id="_uLkQIPH9Ee6zjY69uWdHrA" name="Activity15"/>
+        <edge xmi:type="uml:ControlFlow" xmi:id="_YzrXcPH7Ee6zjY69uWdHrA" target="_VG0rMPH7Ee6zjY69uWdHrA" source="_KZygwPH7Ee6zjY69uWdHrA"/>
+        <edge xmi:type="uml:ControlFlow" xmi:id="_urle4PH7Ee6zjY69uWdHrA" name="[rotorRotationSpeed >= 13]" target="_jzNxsPH8Ee6zjY69uWdHrA" source="_VG0rMPH7Ee6zjY69uWdHrA"/>
+        <edge xmi:type="uml:ControlFlow" xmi:id="_QaqBkPH8Ee6zjY69uWdHrA" target="_3ns6wPH6Ee6zjY69uWdHrA" source="_BqG-YPH8Ee6zjY69uWdHrA"/>
+        <edge xmi:type="uml:ControlFlow" xmi:id="_WnWNUPH8Ee6zjY69uWdHrA" target="_3ns6wPH6Ee6zjY69uWdHrA" source="_sfyyMPH6Ee6zjY69uWdHrA"/>
+        <edge xmi:type="uml:ControlFlow" xmi:id="_bGpDIPH8Ee6zjY69uWdHrA" name="[rotorRotationSpeed &lt; 13]" target="_oeAF0PH8Ee6zjY69uWdHrA" source="_VG0rMPH7Ee6zjY69uWdHrA"/>
+        <node xmi:type="uml:InitialNode" xmi:id="_sfyyMPH6Ee6zjY69uWdHrA" name="Init" outgoing="_WnWNUPH8Ee6zjY69uWdHrA"/>
+        <node xmi:type="uml:CallBehaviorAction" xmi:id="_3ns6wPH6Ee6zjY69uWdHrA" name="Rotates" incoming="_QaqBkPH8Ee6zjY69uWdHrA _WnWNUPH8Ee6zjY69uWdHrA" behavior="_80HVQPH6Ee6zjY69uWdHrA">
+          <result xmi:type="uml:OutputPin" xmi:id="_KZygwPH7Ee6zjY69uWdHrA" name="rotorRotationSpeed" outgoing="_YzrXcPH7Ee6zjY69uWdHrA">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Real"/>
+            <upperBound xmi:type="uml:LiteralInteger" xmi:id="_KZzH0PH7Ee6zjY69uWdHrA" value="1"/>
+          </result>
+        </node>
+        <node xmi:type="uml:DecisionNode" xmi:id="_VG0rMPH7Ee6zjY69uWdHrA" incoming="_YzrXcPH7Ee6zjY69uWdHrA" outgoing="_urle4PH7Ee6zjY69uWdHrA _bGpDIPH8Ee6zjY69uWdHrA"/>
+        <node xmi:type="uml:CallBehaviorAction" xmi:id="_BqG-YPH8Ee6zjY69uWdHrA" name="Decelerate" incoming="_FfbDEPH8Ee6zjY69uWdHrA" outgoing="_QaqBkPH8Ee6zjY69uWdHrA" behavior="_DbQL4PH8Ee6zjY69uWdHrA"/>
+      </ownedBehavior>
+      <ownedBehavior xmi:type="uml:Activity" xmi:id="_NKwB8PH6Ee6zjY69uWdHrA" name="ManualBrake" node="_ogengPH7Ee6zjY69uWdHrA">
+        <edge xmi:type="uml:ControlFlow" xmi:id="_FfbDEPH8Ee6zjY69uWdHrA" target="_BqG-YPH8Ee6zjY69uWdHrA" source="_ogengPH7Ee6zjY69uWdHrA"/>
+        <node xmi:type="uml:CallBehaviorAction" xmi:id="_ogengPH7Ee6zjY69uWdHrA" name="Braking" outgoing="_FfbDEPH8Ee6zjY69uWdHrA" behavior="_sqV_4PH7Ee6zjY69uWdHrA">
+          <argument xmi:type="uml:InputPin" xmi:id="_jzNxsPH8Ee6zjY69uWdHrA" name="rotorRotationSpeed" incoming="_urle4PH7Ee6zjY69uWdHrA">
+            <upperBound xmi:type="uml:LiteralInteger" xmi:id="_jzO_0PH8Ee6zjY69uWdHrA" value="1"/>
+          </argument>
+        </node>
+      </ownedBehavior>
+      <ownedBehavior xmi:type="uml:Activity" xmi:id="_ToTUMPH6Ee6zjY69uWdHrA" name="Alternator" node="_5MYkIPH7Ee6zjY69uWdHrA _KwQOEPH9Ee6zjY69uWdHrA">
+        <edge xmi:type="uml:ControlFlow" xmi:id="_RyrvAPH9Ee6zjY69uWdHrA" target="_dIhl4PH9Ee6zjY69uWdHrA" source="_h1aoQPH8Ee6zjY69uWdHrA"/>
+        <edge xmi:type="uml:ControlFlow" xmi:id="_54tMsPH9Ee6zjY69uWdHrA" target="_2a7eQPH9Ee6zjY69uWdHrA" source="_m9wloPH9Ee6zjY69uWdHrA"/>
+        <node xmi:type="uml:CallBehaviorAction" xmi:id="_5MYkIPH7Ee6zjY69uWdHrA" name="Rotates" behavior="_-x9skPH7Ee6zjY69uWdHrA">
+          <argument xmi:type="uml:InputPin" xmi:id="_oeAF0PH8Ee6zjY69uWdHrA" name="rotorRotationSpeed" incoming="_bGpDIPH8Ee6zjY69uWdHrA">
+            <upperBound xmi:type="uml:LiteralInteger" xmi:id="_oeAs4PH8Ee6zjY69uWdHrA" value="1"/>
+          </argument>
+          <result xmi:type="uml:OutputPin" xmi:id="_h1aoQPH8Ee6zjY69uWdHrA" name="MechanicalEnergy" outgoing="_RyrvAPH9Ee6zjY69uWdHrA">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Real"/>
+            <upperBound xmi:type="uml:LiteralInteger" xmi:id="_h1bPUPH8Ee6zjY69uWdHrA" value="1"/>
+          </result>
+        </node>
+        <node xmi:type="uml:CallBehaviorAction" xmi:id="_KwQOEPH9Ee6zjY69uWdHrA" name="GeneratesAlternatingCurrent" behavior="_LFznUPH9Ee6zjY69uWdHrA">
+          <argument xmi:type="uml:InputPin" xmi:id="_dIhl4PH9Ee6zjY69uWdHrA" name="MechanicalEnergyReceived" incoming="_RyrvAPH9Ee6zjY69uWdHrA">
+            <upperBound xmi:type="uml:LiteralInteger" xmi:id="_dIhl4fH9Ee6zjY69uWdHrA" value="1"/>
+          </argument>
+          <result xmi:type="uml:OutputPin" xmi:id="_m9wloPH9Ee6zjY69uWdHrA" name="AlternatingCurrent" outgoing="_54tMsPH9Ee6zjY69uWdHrA">
+            <upperBound xmi:type="uml:LiteralInteger" xmi:id="_m9xMsPH9Ee6zjY69uWdHrA" value="1"/>
+          </result>
+        </node>
+      </ownedBehavior>
+      <ownedBehavior xmi:type="uml:Activity" xmi:id="_krg9kPH6Ee6zjY69uWdHrA" name="Transformer" node="_t39XoPH9Ee6zjY69uWdHrA _HgAI0PH-Ee6zjY69uWdHrA">
+        <edge xmi:type="uml:ControlFlow" xmi:id="_KZQN4PH-Ee6zjY69uWdHrA" target="_HgAI0PH-Ee6zjY69uWdHrA" source="_-T6MsPH9Ee6zjY69uWdHrA"/>
+        <node xmi:type="uml:CallBehaviorAction" xmi:id="_t39XoPH9Ee6zjY69uWdHrA" name="PerformCurrentConversion" behavior="_uLkQIPH9Ee6zjY69uWdHrA">
+          <argument xmi:type="uml:InputPin" xmi:id="_2a7eQPH9Ee6zjY69uWdHrA" name="AlternatingCurrentReceived" incoming="_54tMsPH9Ee6zjY69uWdHrA">
+            <upperBound xmi:type="uml:LiteralInteger" xmi:id="_2a7eQfH9Ee6zjY69uWdHrA" value="1"/>
+          </argument>
+          <result xmi:type="uml:OutputPin" xmi:id="_-T6MsPH9Ee6zjY69uWdHrA" name="DirectCurrent" outgoing="_KZQN4PH-Ee6zjY69uWdHrA">
+            <upperBound xmi:type="uml:LiteralInteger" xmi:id="_-T6MsfH9Ee6zjY69uWdHrA" value="1"/>
+          </result>
+        </node>
+        <node xmi:type="uml:ActivityParameterNode" xmi:id="_HgAI0PH-Ee6zjY69uWdHrA" name="PowerGenerated" incoming="_KZQN4PH-Ee6zjY69uWdHrA">
+          <upperBound xmi:type="uml:LiteralInteger" xmi:id="_HgAI0fH-Ee6zjY69uWdHrA" value="1"/>
+        </node>
+      </ownedBehavior>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_vG9eMPH5Ee6zjY69uWdHrA" name="platform">
+      <packagedElement xmi:type="uml:Package" xmi:id="_vHJEYPH5Ee6zjY69uWdHrA" name="WindTurbinePlatform">
+        <packagedElement xmi:type="uml:InstanceSpecification" xmi:id="_vHKSgPH5Ee6zjY69uWdHrA" classifier="_UL1J8PH4Ee6zjY69uWdHrA"/>
+      </packagedElement>
+    </packagedElement>
     <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_F5ySsOuMEe6hBcWr_60q5Q">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_F51WAOuMEe6hBcWr_60q5Q" source="http://www.eclipse.org/uml2/2.0.0/UML">
         <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/papyrus/sysml/1.6/SysML#/"/>
@@ -298,4 +371,12 @@
   <Blocks:Block xmi:id="_E50AMOxMEe67n43vCMY80w" base_Class="_E5tSgOxMEe67n43vCMY80w"/>
   <Blocks:Block xmi:id="_Smz7sOxMEe67n43vCMY80w" base_Class="_SmtOAOxMEe67n43vCMY80w"/>
   <Blocks:Block xmi:id="_b0BSIOxMEe67n43vCMY80w" base_Class="_bz6kcOxMEe67n43vCMY80w"/>
+  <Activities:Continuous xmi:id="_YzyFIPH7Ee6zjY69uWdHrA" base_ActivityEdge="_YzrXcPH7Ee6zjY69uWdHrA"/>
+  <Activities:Continuous xmi:id="_urpwUPH7Ee6zjY69uWdHrA" base_ActivityEdge="_urle4PH7Ee6zjY69uWdHrA"/>
+  <Activities:Continuous xmi:id="_FfetcPH8Ee6zjY69uWdHrA" base_ActivityEdge="_FfbDEPH8Ee6zjY69uWdHrA"/>
+  <Activities:Continuous xmi:id="_Qasd0PH8Ee6zjY69uWdHrA" base_ActivityEdge="_QaqBkPH8Ee6zjY69uWdHrA"/>
+  <Activities:Continuous xmi:id="_bGstgPH8Ee6zjY69uWdHrA" base_ActivityEdge="_bGpDIPH8Ee6zjY69uWdHrA"/>
+  <Activities:Continuous xmi:id="_RywAcPH9Ee6zjY69uWdHrA" base_ActivityEdge="_RyrvAPH9Ee6zjY69uWdHrA"/>
+  <Activities:Continuous xmi:id="_54wQAPH9Ee6zjY69uWdHrA" base_ActivityEdge="_54tMsPH9Ee6zjY69uWdHrA"/>
+  <Activities:Continuous xmi:id="_KZVGYPH-Ee6zjY69uWdHrA" base_ActivityEdge="_KZQN4PH-Ee6zjY69uWdHrA"/>
 </xmi:XMI>
