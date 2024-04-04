@@ -670,7 +670,7 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_XWEgJuxMEe67n43vCMY80w" y="20"/>
       </children>
       <children xmi:type="notation:DecorationNode" xmi:id="_XWEgJ-xMEe67n43vCMY80w" type="Association_TargetRoleLabel">
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_XWEgKOxMEe67n43vCMY80w" y="-20"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_XWEgKOxMEe67n43vCMY80w" x="14" y="-49"/>
       </children>
       <children xmi:type="notation:DecorationNode" xmi:id="_XWEgKexMEe67n43vCMY80w" type="Association_SourceRoleLabel">
         <layoutConstraint xmi:type="notation:Location" xmi:id="_XWEgKuxMEe67n43vCMY80w" x="-10" y="26"/>
@@ -723,7 +723,7 @@
       </children>
       <children xmi:type="notation:DecorationNode" xmi:id="_iNcSUuxMEe67n43vCMY80w" type="Association_TargetRoleLabel">
         <styles xmi:type="notation:BooleanValueStyle" xmi:id="_jEf2IOxMEe67n43vCMY80w" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_iNcSU-xMEe67n43vCMY80w" x="280" y="-19"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_iNcSU-xMEe67n43vCMY80w" x="230" y="-19"/>
       </children>
       <children xmi:type="notation:DecorationNode" xmi:id="_iNcSVOxMEe67n43vCMY80w" type="Association_SourceRoleLabel">
         <styles xmi:type="notation:BooleanValueStyle" xmi:id="_jEq1QOxMEe67n43vCMY80w" name="IS_UPDATED_POSITION" booleanValue="true"/>

@@ -47,25 +47,13 @@
       <packagedElement xmi:type="uml:Class" xmi:id="_5vNhUOuNEe6hBcWr_60q5Q" name="Multiplier"/>
       <packagedElement xmi:type="uml:Class" xmi:id="_2FMGoOuNEe6hBcWr_60q5Q" name="ManualBrake"/>
       <packagedElement xmi:type="uml:Class" xmi:id="_jZEbMOuMEe6hBcWr_60q5Q" name="Nacelle">
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_G0gZEuuNEe6hBcWr_60q5Q" name="generator" type="_clq0wOuMEe6hBcWr_60q5Q" aggregation="composite" association="_G0fyAOuNEe6hBcWr_60q5Q">
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_G0gZE-uNEe6hBcWr_60q5Q"/>
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_G0gZFOuNEe6hBcWr_60q5Q" value="1"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_9n308uuNEe6hBcWr_60q5Q" name="manualbrake" type="_2FMGoOuNEe6hBcWr_60q5Q" aggregation="composite" association="_9n3N4OuNEe6hBcWr_60q5Q">
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_9n308-uNEe6hBcWr_60q5Q"/>
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_9n309OuNEe6hBcWr_60q5Q" value="1"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="__X5oI-uNEe6hBcWr_60q5Q" name="multiplier" type="_5vNhUOuNEe6hBcWr_60q5Q" aggregation="composite" association="__X5oIOuNEe6hBcWr_60q5Q">
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="__X6PMOuNEe6hBcWr_60q5Q"/>
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="__X6PMeuNEe6hBcWr_60q5Q" value="1"/>
-        </ownedAttribute>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_G0gZEuuNEe6hBcWr_60q5Q" name="generator" type="_clq0wOuMEe6hBcWr_60q5Q" aggregation="composite" association="_G0fyAOuNEe6hBcWr_60q5Q"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_9n308uuNEe6hBcWr_60q5Q" name="manualbrake" type="_2FMGoOuNEe6hBcWr_60q5Q" aggregation="composite" association="_9n3N4OuNEe6hBcWr_60q5Q"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="__X5oI-uNEe6hBcWr_60q5Q" name="multiplier" type="_5vNhUOuNEe6hBcWr_60q5Q" aggregation="composite" association="__X5oIOuNEe6hBcWr_60q5Q"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Model" xmi:id="_T5HEUOw8Ee6hBcWr_60q5Q" name="GeneratorModel">
         <packagedElement xmi:type="uml:Class" xmi:id="_clq0wOuMEe6hBcWr_60q5Q" name="Generator">
-          <ownedAttribute xmi:type="uml:Property" xmi:id="_KtKFouuNEe6hBcWr_60q5Q" name="alternator" type="_f90cUOuMEe6hBcWr_60q5Q" aggregation="composite" association="_KtJekOuNEe6hBcWr_60q5Q">
-            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_KtKFo-uNEe6hBcWr_60q5Q"/>
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_KtKFpOuNEe6hBcWr_60q5Q" value="1"/>
-          </ownedAttribute>
+          <ownedAttribute xmi:type="uml:Property" xmi:id="_KtKFouuNEe6hBcWr_60q5Q" name="alternator" type="_f90cUOuMEe6hBcWr_60q5Q" aggregation="composite" association="_KtJekOuNEe6hBcWr_60q5Q"/>
         </packagedElement>
         <packagedElement xmi:type="uml:Class" xmi:id="_f90cUOuMEe6hBcWr_60q5Q" name="Alternator">
           <ownedAttribute xmi:type="uml:Property" xmi:id="_gL8F8euOEe6hBcWr_60q5Q" name="rotorFromWhichItAdaptsItsOwnRotation" type="_ZaHz4OuOEe6hBcWr_60q5Q" association="_gL7e4OuOEe6hBcWr_60q5Q"/>
@@ -78,19 +66,13 @@
         <ownedOperation xmi:type="uml:Operation" xmi:id="_a5QrYOuOEe6hBcWr_60q5Q" name="rotate"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_SmtOAOxMEe67n43vCMY80w" name="RotorHub">
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_XV4S4uxMEe67n43vCMY80w" name="rotor" type="_ZaHz4OuOEe6hBcWr_60q5Q" aggregation="composite" association="_XV3r0OxMEe67n43vCMY80w">
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_XV458OxMEe67n43vCMY80w"/>
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_XV458exMEe67n43vCMY80w" value="1"/>
-        </ownedAttribute>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_XV4S4uxMEe67n43vCMY80w" name="rotor" type="_ZaHz4OuOEe6hBcWr_60q5Q" aggregation="composite" association="_XV3r0OxMEe67n43vCMY80w"/>
       </packagedElement>
     </packagedElement>
     <packagedElement xmi:type="uml:Model" xmi:id="_n7TnUOw8Ee6hBcWr_60q5Q" name="TowerModel">
       <packagedElement xmi:type="uml:Class" xmi:id="_J3TJwOuPEe6hBcWr_60q5Q" name="Transformer"/>
       <packagedElement xmi:type="uml:Class" xmi:id="_bz6kcOxMEe67n43vCMY80w" name="Tower">
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_fy9M4exMEe67n43vCMY80w" name="transformer" type="_J3TJwOuPEe6hBcWr_60q5Q" aggregation="composite" association="_fy8l0OxMEe67n43vCMY80w">
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_fy9z8OxMEe67n43vCMY80w"/>
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_fy_CEOxMEe67n43vCMY80w" value="1"/>
-        </ownedAttribute>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_fy9M4exMEe67n43vCMY80w" name="transformer" type="_J3TJwOuPEe6hBcWr_60q5Q" aggregation="composite" association="_fy8l0OxMEe67n43vCMY80w"/>
       </packagedElement>
     </packagedElement>
     <packagedElement xmi:type="uml:Actor" xmi:id="_GBbpMOxEEe67n43vCMY80w" name="VirtualPartMaintainer"/>
@@ -179,14 +161,8 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Class" xmi:id="_E5tSgOxMEe67n43vCMY80w" name="WindTurbine">
       <ownedAttribute xmi:type="uml:Property" xmi:id="_IrUi8uxMEe67n43vCMY80w" name="nacelle" type="_jZEbMOuMEe6hBcWr_60q5Q" aggregation="composite" association="_IrT74OxMEe67n43vCMY80w"/>
-      <ownedAttribute xmi:type="uml:Property" xmi:id="_MNJq8uxMEe67n43vCMY80w" name="rotorHub" type="_SmtOAOxMEe67n43vCMY80w" aggregation="composite" association="_MNH1wOxMEe67n43vCMY80w">
-        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_MNJq8-xMEe67n43vCMY80w"/>
-        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_MNKSAOxMEe67n43vCMY80w" value="1"/>
-      </ownedAttribute>
-      <ownedAttribute xmi:type="uml:Property" xmi:id="_iNNo0uxMEe67n43vCMY80w" name="tower" type="_bz6kcOxMEe67n43vCMY80w" aggregation="composite" association="_iNNBwOxMEe67n43vCMY80w">
-        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_iNNo0-xMEe67n43vCMY80w"/>
-        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iNNo1OxMEe67n43vCMY80w" value="1"/>
-      </ownedAttribute>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_MNJq8uxMEe67n43vCMY80w" name="rotorHub" type="_SmtOAOxMEe67n43vCMY80w" aggregation="composite" association="_MNH1wOxMEe67n43vCMY80w"/>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_iNNo0uxMEe67n43vCMY80w" name="tower" type="_bz6kcOxMEe67n43vCMY80w" aggregation="composite" association="_iNNBwOxMEe67n43vCMY80w"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_IrT74OxMEe67n43vCMY80w" memberEnd="_IrUi8uxMEe67n43vCMY80w _IrVKAOxMEe67n43vCMY80w">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_IrUi8OxMEe67n43vCMY80w" source="org.eclipse.papyrus">
